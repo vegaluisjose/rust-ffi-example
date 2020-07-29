@@ -1,0 +1,9 @@
+[package]
+name = "to-rust"
+version = "0.1.0"
+authors = ["Luis Vega <vegaluisjose@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libloading = "0.6.2"
+
